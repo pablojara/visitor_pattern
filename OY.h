@@ -1,3 +1,6 @@
+#ifndef OY_H
+#define OY_H
+
 #include "O.h"
 #include "E3.h"
 
@@ -10,3 +13,5 @@ class OY: public O
         E3 e3;
 
 };
+
+#endif

@@ -1,3 +1,6 @@
+#ifndef E2_H
+#define E2_H
+
 class E2
 {
     public:
@@ -6,3 +9,5 @@ class E2
     private:
 
 };
+
+#endif

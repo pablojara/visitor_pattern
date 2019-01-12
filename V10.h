@@ -1,4 +1,10 @@
+#ifndef V10_H
+#define V10_H
+
 #include "V.h"
+#include "OY.h"
+#include "OX.h"
+
 
 class V10: public V
 {
@@ -8,3 +14,5 @@ class V10: public V
 
 
 };
+
+#endif
